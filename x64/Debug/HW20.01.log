@@ -1,0 +1,14 @@
+﻿  Student.cpp
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(25,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(37,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(104,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(120,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(146,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(161,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(187,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(202,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(137): warning C4715: Student::GePracticRatesCount: значение возвращается не при всех путях выполнения
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(178): warning C4715: Student::GetHomeWorkRatesCount: значение возвращается не при всех путях выполнения
+C:\Users\Rog\source\repos\HW20.01\Student.cpp(219): warning C4715: Student::GetExamRatesCount: значение возвращается не при всех путях выполнения
+  HW20.01.vcxproj -> C:\Users\Rog\source\repos\HW20.01\x64\Debug\HW20.01.exe
