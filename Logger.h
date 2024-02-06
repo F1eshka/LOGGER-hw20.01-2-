@@ -3,13 +3,12 @@
 #include <ctime>
 #include <string>
 #include <fstream>
-#include <windows.h>
 using namespace std;
 
 class Logger
 {
     static Logger* instance;
-    int log_ñount = 0;
+    int log_Ã±ount = 0;
 
     Logger()
     {
@@ -24,8 +23,8 @@ public:
 
     void Write(string message)
     {
-        log_ñount++;
-        cout << log_ñount << ": " << message << "\n";
+        log_Ã±ount++;
+        cout << log_Ã±ount << ": " << message << "\n";
         ofstream output_file("log.txt", ios::app);
         if (output_file.is_open()) {
             output_file << message << "\n";
